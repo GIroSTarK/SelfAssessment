@@ -2,65 +2,65 @@
 
 - Theory
   - Procedural programming 🖐️ used
-  - Imperative programming
+  - Imperative programming 🖐️ used
   - Structured programming 🖐️ used
   - Non-structured programming 🖐️ used
   - Functional programming 🎓 known
-  - Prototype-based programming
-  - Object-oriented programming 🎓 known
-  - Object-based programming 🎓 known
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming 🎓 known
+  - Prototype-based programming 🖐️ used
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 🖐️ used
+  - Generic programming 🎓 known
+  - Concurrent computing 🎓 known
+  - Asyncronous programming 🖐️ used
   - Parallel programming 🎓 known
-  - Reactive programming
-  - FRP (Functional-reactive)
-  - Automata-based programming
-  - Domain-specific languages
+  - Reactive programming 🎓 known
+  - FRP (Functional-reactive) 🎓 known
+  - Automata-based programming 🎓 known
+  - Domain-specific languages 🎓 known
   - Multi-paradigm programming 🎓 known
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming 🎓 known
+  - Actor model 🖐️ used
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance 🎓 known
-  - Introspection
-  - Reflection
+  - constructor 🖐️ used
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
+  - Async method 🙋 explained
+  - Getters, Setters 🙋 explained
+  - Public fields 🖐️ used
+  - Private fields 🖐️ used
+  - Field declarations 🖐️ used
+  - Inheritance 🖐️ used
+  - Parent class 🖐️ used
+  - Polymorphism 🖐️ used
+  - Abstract class 🎓 known
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🖐️ used
+  - Object form 🖐️ used
+  - instance 🖐️ used
+  - Introspection 🖐️ used
+  - Reflection 🖐️ used
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
-  - Abstract Factory
-  - Adapter
-  - Observer 👂 heard
-  - Strategy
-  - Facade
-  - Proxy 👂 heard
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🎓 known
+  - Adapter 🖐️ used
+  - Observer 🖐️ used
+  - Strategy 🎓 known
+  - Facade 🎓 known
+  - Proxy 🖐️ used
+  - Chain of Responsibility 🎓 known
+  - Command 🎓 known
+  - Iterator 🎓 known
+  - State 🎓 known
+  - Bridge 🎓 known
+  - Builder 🎓 known
+  - Prototype 🎓 known
+  - Composite 🎓 known
+  - Decorator 🎓 known
+  - Flyweight 🎓 known
   - Mediator
   - Memento
-  - Template Method
-  - Visitor
+  - Template Method 🎓 known
+  - Visitor 🎓 known
