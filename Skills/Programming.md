@@ -8,12 +8,12 @@
   - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
-  - heap: 🖐️ used
+  - heap: 🙋 explained
   - function: 🖐️ used
   - procedure: 🖐️ used
-  - method: 🎓 known
-  - class: 🎓 known
-  - prototype: 🎓 known
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🙋 explained
   - event: 🖐️ used
   - type: 🖐️ used
   - primitive types: 🖐️ used
@@ -24,18 +24,18 @@
   - conditions: 🖐️ used
   - loops: 🖐️ used
   - assignment: 🖐️ used 
-  - regular expression: 👂 heard
-  - interface: 👂 heard
-  - contract: 👂 heard
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
   - module: 🖐️ used
-  - call stack: 👂 heard
+  - call stack: 🖐️ used:
 - Functions
   - signature: 🖐️ used
   - argument: 🖐️ used
   - parameter: 🖐️ used
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
-  - side effects: 👂 heard
+  - side effects: 🎓 known
   - closure: 🖐️ used
   - partial application: 🖐️ used
   - curry: 🖐️ used
@@ -43,23 +43,23 @@
   - recursion: 🖐️ used
   - callback: 🖐️ used
   - listener: 🖐️ used
-  - compose: 🎓 known
-  - pipe: 🎓 known
-  - memoize: 🎓 known
-  - wrapper: 🎓 known
-  - functor: 👂 heard
-  - monad: 👂 heard
-  - monoid: 👂 heard
-  - generator: 👂 heard
-  - coroutine: 👂 heard
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
+  - memoize: 🖐️ used
+  - wrapper: 🖐️ used
+  - functor: 🖐️ used
+  - monad: 🖐️ used
+  - monoid: 🖐️ used
+  - generator: 🖐️ used
+  - coroutine: 🖐️ used
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
   - record: 🖐️ used
-  - enum: 👂 heard
-  - instance: 🎓 known
+  - enum: 🖐️ used
+  - instance: 🙋 explained
   - object: 🖐️ used
-  - class: 🎓 known
+  - class: 🙋 explained
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
@@ -72,12 +72,12 @@
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 👂 heard
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
   - serialization: 🖐️ used
   - string parsing: 🖐️ used
-- Process & style
+- Process: & style
   - compiler: 🖐️ used
   - transpiler: 🖐️ used
   - linter: 🖐️ used
@@ -85,8 +85,8 @@
   - debugger: 🖐️ used
   - garbage collection: 🖐️ used
   - refactoring: 🖐️ used
-  - code review: 🎓 known
-  - antipatterns: 🎓 known
+  - code review: 🖐️ used
+  - antipatterns: 🙋 explained
   - paradigm: 🎓 known
   - algorithm: 🎓 known
   - magic numbers: 🎓 known
@@ -101,6 +101,6 @@
   - duplicate code: 🎓 known
   - exception: 🖐️ used
   - return early: 🖐️ used
-  - unittest: 🎓 known
+  - unittest: 🖐️ used
   - git: 🖐️ used
   - github: 🖐️ used

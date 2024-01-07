@@ -1,45 +1,45 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object: 🎓 known
-  - this: 🎓 known
-  - arrow function: 🖐️ used
-  - async function: 🎓 known
-  - call: 🎓 known
-  - bind: 🎓 known
-  - apply: 🎓 known
+  - Object: 🙋 explained
+  - this: 🙋 explained
+  - arrow function: 🙋 explained
+  - async function: 🙋 explained
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
   - instanceof: 🖐️ used
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
   - chaining: 🖐️ used
-  - optional chaining: 👂 heard
+  - optional chaining: 🖐️ used
   - IIFE: 🖐️ used
-  - global: 🎓 known
-  - globalThis: 🎓 known
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
   - __proto__: 🎓 known
-  - prototype: 🎓 known
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield: 👂 heard
-  - await: 🎓 known
+  - yield: 🖐️ used
+  - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
-  - super: 🎓 known
-  - Symbol: 🎓 known
-  - Reflect: 
+  - super: 🙋 explained
+  - Symbol: 🖐️ used
+  - Reflect: 🖐️ used
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -47,17 +47,17 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🎓 known
-  - throw: 🎓 known
+  - for await: 🖐️ used
+  - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
   - label: 🖐️ used
-  - try..catch: 🎓 known
+  - try..catch: 🖐️ used
   - switch: 🎓 known
-  - class: 🎓 known
-  - new Error: 🎓 known
+  - class: 🖐️ used
+  - new Error: 🖐️ used
   - with: 🎓 known
 - Functions
   - function declaration: 🖐️ used
@@ -67,23 +67,23 @@
   - functional object: 🖐️ used
 - Data structures
   - Array: 🖐️ used
-  - mixin: 🎓 known
-  - extend: 🎓 known
-  - typed arrays: 🎓 known
+  - mixin: 🖐️ used
+  - extend: 🖐️ used
+  - typed arrays: 🖐️ used
   - Map: 🖐️ used
   - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy: 🎓 known
-  - weak collections: 🎓 known
-  - timers: 🎓 known
-  - EventEmitter: 🎓 known
-  - RegExp: 🎓 known
+  - Proxy: 🖐️ used
+  - weak collections: 🖐️ used
+  - timers: 🙋 explained
+  - EventEmitter: 🙋 explained
+  - RegExp: 🖐️ used
   - Date: 🖐️ used
-  - BigInt: 🎓 known
+  - BigInt: 🖐️ used
 - Infrastructure
-  - V8: 🖐️ used
-  - Node.js: 🎓 known
-  - npm: 🎓 known
-  - prettier: 🖐️ used
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
+  - prettier: 🙋 explained
   - MDN: 🖐️ used
