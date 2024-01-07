@@ -1,107 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
-  - identifier 🖐️ used
-  - variable 🖐️ used
-  - constant 🖐️ used
-  - scalar 🖐️ used
-  - literal 🖐️ used
-  - expression 🖐️ used
-  - heap 🙋 explained
-  - function 🖐️ used
-  - procedure 🖐️ used
-  - method 🖐️ used
-  - class 🖐️ used
-  - prototype 🙋 explained
-  - event 🖐️ used
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 🖐️ used
-  - flag 🖐️ used
-  - lexical scope 🎓 known
-  - code block 🖐️ used
-  - conditions 🖐️ used
-  - loops 🖐️ used
-  - assignment 🖐️ used 
-  - regular expression 🖐️ used
-  - interface 🖐️ used
-  - contract 🖐️ used
-  - module 🖐️ used
-  - call stack 🖐️ used
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 🖐️ used
+  - expression: 🖐️ used
+  - heap: 🙋 explained
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🙋 explained
+  - event: 🖐️ used
+  - type: 🖐️ used
+  - primitive types: 🖐️ used
+  - reference types: 🖐️ used
+  - flag: 🖐️ used
+  - lexical scope: 🎓 known
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 🖐️ used 
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🖐️ used
+  - module: 🖐️ used
+  - call stack: 🖐️ used:
 - Functions
-  - signature 🖐️ used
-  - argument 🖐️ used
-  - parameter 🖐️ used
-  - pure function 🖐️ used
-  - lambda expression 🖐️ used
-  - side effects 🎓 known
-  - closure 🖐️ used
-  - partial application 🖐️ used
-  - curry 🖐️ used
-  - higher order 🖐️ used
-  - recursion 🖐️ used
-  - callback 🖐️ used
-  - listener 🖐️ used
-  - compose 🖐️ used
-  - pipe 🖐️ used
-  - memoize 🖐️ used
-  - wrapper 🖐️ used
-  - functor 🖐️ used
-  - monad 🖐️ used
-  - monoid 🖐️ used
-  - generator 🖐️ used
-  - coroutine 🖐️ used
+  - signature: 🖐️ used
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 🖐️ used
+  - lambda expression: 🖐️ used
+  - side effects: 🎓 known
+  - closure: 🖐️ used
+  - partial application: 🖐️ used
+  - curry: 🖐️ used
+  - higher order: 🖐️ used
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🖐️ used
+  - compose: 🖐️ used
+  - pipe: 🖐️ used
+  - memoize: 🖐️ used
+  - wrapper: 🖐️ used
+  - functor: 🖐️ used
+  - monad: 🖐️ used
+  - monoid: 🖐️ used
+  - generator: 🖐️ used
+  - coroutine: 🖐️ used
 - Data structures
-  - array 🖐️ used
-  - structure 🖐️ used
-  - record 🖐️ used
-  - enum 🖐️ used
-  - instance 🙋 explained
-  - object 🖐️ used
-  - class 🙋 explained
-  - collection 🖐️ used
-  - set 🖐️ used
-  - hash table 🖐️ used
-  - linked list 🎓 known
-  - doubly list 🎓 known
-  - unrolled list 🎓 known
-  - circular list 🎓 known
-  - queue 🎓 known
-  - stack 🎓 known
-  - deque 🎓 known
-  - tree 🎓 known
-  - graph 🎓 known
-  - iterator 🖐️ used
-  - mutable state 🖐️ used
-  - immutable state 🖐️ used
-  - serialization 🖐️ used
-  - string parsing 🖐️ used
-- Process & style
-  - compiler 🖐️ used
-  - transpiler 🖐️ used
-  - linter 🖐️ used
-  - polyfill 🖐️ used
-  - debugger 🖐️ used
-  - garbage collection 🖐️ used
-  - refactoring 🖐️ used
-  - code review 🖐️ used
-  - antipatterns 🙋 explained
-  - paradigm 🎓 known
-  - algorithm 🎓 known
-  - magic numbers 🎓 known
-  - hardcode 🎓 known
-  - complexity 🎓 known
-  - decomposition 🎓 known
-  - spaghetti 🎓 known
-  - silver bullet 🎓 known
-  - not invented here 🎓 known
-  - dead code 🎓 known
-  - unreachable code 🎓 known
-  - duplicate code 🎓 known
-  - exception 🖐️ used
-  - return early 🖐️ used
-  - unittest 🖐️ used
-  - git 🖐️ used
-  - github 🖐️ used
-  
+  - array: 🖐️ used
+  - structure: 🖐️ used
+  - record: 🖐️ used
+  - enum: 🖐️ used
+  - instance: 🙋 explained
+  - object: 🖐️ used
+  - class: 🙋 explained
+  - collection: 🖐️ used
+  - set: 🖐️ used
+  - hash table: 🖐️ used
+  - linked list: 🎓 known
+  - doubly list: 🎓 known
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
+  - queue: 🎓 known
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🎓 known
+  - graph: 🎓 known
+  - iterator: 🖐️ used
+  - mutable state: 🖐️ used
+  - immutable state: 🖐️ used
+  - serialization: 🖐️ used
+  - string parsing: 🖐️ used
+- Process: & style
+  - compiler: 🖐️ used
+  - transpiler: 🖐️ used
+  - linter: 🖐️ used
+  - polyfill: 🖐️ used
+  - debugger: 🖐️ used
+  - garbage collection: 🖐️ used
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🙋 explained
+  - paradigm: 🎓 known
+  - algorithm: 🎓 known
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
+  - complexity: 🎓 known
+  - decomposition: 🎓 known
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
+  - not invented here: 🎓 known
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🖐️ used
+  - return early: 🖐️ used
+  - unittest: 🖐️ used
+  - git: 🖐️ used
+  - github: 🖐️ used
