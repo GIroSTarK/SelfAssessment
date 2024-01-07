@@ -1,37 +1,37 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
+  - Procedural programming: 🖐️ used
   - Imperative programming
-  - Structured programming 🖐️ used
-  - Non-structured programming 🖐️ used
-  - Functional programming 🎓 known
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming 🎓 known
-  - Object-based programming 🎓 known
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming 🎓 known
-  - Parallel programming 🎓 known
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming 🎓 known
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
+  - constructor: 🎓 known
+  - new: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
   - Async method
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
   - Polymorphism
   - Abstract class
   - Interface
@@ -42,14 +42,14 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
-  - Observer 👂 heard
+  - Observer: 👂 heard
   - Strategy
   - Facade
-  - Proxy 👂 heard
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
   - Iterator
